@@ -1,0 +1,6 @@
+test:
+  - 1
+  - 2
+  - 3
+dummy: null
+nop: "A String"
