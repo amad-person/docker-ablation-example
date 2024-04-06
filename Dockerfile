@@ -11,4 +11,4 @@ ADD configs configs
 ADD code code
 
 # Run the experiment:
-ENTRYPOINT ["python", "code/run_exp.py"]
+ENTRYPOINT ["python", "-m"]
